@@ -24,7 +24,8 @@ How it works
 
 Install
 ---------------
-`go get github.com/kkdai/youtube`
+`export GOPATH=/home/john/gocode
+ go get github.com/kkdai/youtube`
 
 
 Usage
